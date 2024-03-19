@@ -10,6 +10,7 @@ class Animal {
         this.weight = weight;
     }
 
+
     // Геттеры и сеттеры для name и weight
 }
 
